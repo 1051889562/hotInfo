@@ -18,8 +18,6 @@
         <th field="hotcontent" width="50">关键词</th>
         <th field="searchsum" width="50">搜索指数</th>
         <th field="createdate" width="50">创建时间</th>
-        <th field="createdate" width="50">创建时间</th>
-        <th field="createdate" width="50">创建时间</th>
     </tr>
     </thead>
 </table>
@@ -45,10 +43,6 @@
         <div class="fitem">
             <label>搜索指数:</label>
             <input name="searchsum">
-        </div>
-        <div class="fitem">
-            <label>创建时间:</label>
-            <input name="createdate" class="easyui-validatebox" type="date">
         </div>
         <div class="fitem">
             <label>创建时间:</label>
